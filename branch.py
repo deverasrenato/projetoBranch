@@ -8,3 +8,5 @@ for recebe in range(2):
     lista.append(idade)
     lista.append(profissao)
 print(lista)
+
+print('Esse print foi realizado diretamente pelo perfil do github, modificando do servidor remoto.')
